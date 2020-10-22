@@ -16,8 +16,6 @@ https://jacobitemag.com/
 
 http://qntra.net/
 
-
-
 https://lenscult.net/
 
 http://www.tokyo-ga.org/
@@ -27,6 +25,7 @@ http://blog.practicalethics.ox.ac.uk/2014/12/7-reasons-not-to-feel-bad-about-you
 
 https://beepb00p.xyz/exports.html
 
+https://djrobstep.com/posts/programs-are-a-prison
 
 
 ### junk/joke
@@ -34,10 +33,20 @@ https://timecube.2enp.com/
 
 ### wikipedia
 https://en.wikipedia.org/wiki/Kelly_criterion
+https://en.wikipedia.org/wiki/MACD
+https://en.wikipedia.org/wiki/Field_(mathematics)
+https://en.wikipedia.org/wiki/Factorization
+https://en.wikipedia.org/wiki/DFT_matrix
+https://en.wikipedia.org/wiki/Matrix_decomposition
+https://en.wikipedia.org/wiki/Fast_Fourier_transform
+
+### music
+https://daily.bandcamp.com/lists/microphones-guide
+
 
 ### to sort
 
-
+The Book of Learning and Forgetting
 
 https://signalsandthreads.com/clock-synchronization/
 
@@ -51,7 +60,6 @@ https://leanpub.com/appropriatebehaviour
 
 https://www.tenouk.com/Module43a.html
 
-https://daily.bandcamp.com/lists/microphones-guide
 
 https://baturin.org/docs/ocaml-faq/
 
@@ -78,14 +86,6 @@ https://iq.opengenus.org/burkhard-keller-tree/
 https://alexnixon.github.io/2020/01/14/static-types-are-dangerous.html
 
 https://ruslanspivak.com/lsbasi-part1/
-
-https://djrobstep.com/posts/programs-are-a-prison
-
-https://en.wikipedia.org/wiki/Field_(mathematics)
-https://en.wikipedia.org/wiki/Factorization
-https://en.wikipedia.org/wiki/DFT_matrix
-https://en.wikipedia.org/wiki/Matrix_decomposition
-https://en.wikipedia.org/wiki/Fast_Fourier_transform
 
 https://www.deprocrastination.co/blog/3-tricks-to-start-working-despite-not-feeling-like-it
 
@@ -131,8 +131,6 @@ https://karenapp.io/articles/how-to-be-more-productive-less-effort/
 
 http://v21.io/blog/chorded-input/
 
-https://en.wikipedia.org/wiki/MACD
-
 https://henrikwarne.com/2020/03/22/secure-by-design/
 
 https://www.coolibar.com/men/gloves-sleeves.html
@@ -144,8 +142,6 @@ https://julialang.org/blog/2012/03/shelling-out-sucks/
 https://www.laphamsquarterly.org/roundtable/how-think-medieval-monk
 
 https://www.rationalwalk.com/via-negativa-wisdom-through-subtraction/
-
-The Book of Learning and Forgetting
 
 https://enetdown.org/dot-plan/posts/2016/02/24/thinking-about-metacognition/
 
