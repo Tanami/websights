@@ -23,7 +23,7 @@ https://lenscult.net/
 http://www.tokyo-ga.org/
 
 ### articles
-blog.practicalethics.ox.ac.uk/2014/12/7-reasons-not-to-feel-bad-about-yourself-when-you-have-acted-immorally/
+http://blog.practicalethics.ox.ac.uk/2014/12/7-reasons-not-to-feel-bad-about-yourself-when-you-have-acted-immorally/
 
 https://beepb00p.xyz/exports.html
 
@@ -36,6 +36,10 @@ https://timecube.2enp.com/
 https://en.wikipedia.org/wiki/Kelly_criterion
 
 ### to sort
+
+
+
+https://signalsandthreads.com/clock-synchronization/
 
 https://bernsteinbear.com/blog/compiling-a-lisp-4/
 
@@ -142,4 +146,8 @@ https://www.laphamsquarterly.org/roundtable/how-think-medieval-monk
 https://www.rationalwalk.com/via-negativa-wisdom-through-subtraction/
 
 The Book of Learning and Forgetting
+
+https://enetdown.org/dot-plan/posts/2016/02/24/thinking-about-metacognition/
+
+https://ldmce.wordpress.com/2020/09/09/thingifying-the-world-ii/
 
