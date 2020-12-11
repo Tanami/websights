@@ -45,6 +45,11 @@ https://en.wikipedia.org/wiki/Fast_Fourier_transform
 ### music
 https://daily.bandcamp.com/lists/microphones-guide
 
+### the world
+http://www.thefrancisexplosion.com/
+
+### food / drink
+https://bliksemlight.web.fc2.com/
 
 ### to sort
 
