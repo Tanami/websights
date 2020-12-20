@@ -51,6 +51,9 @@ http://www.thefrancisexplosion.com/
 ### food / drink
 https://bliksemlight.web.fc2.com/
 
+### smart people
+http://acko.net/
+
 ### to sort
 
 The Book of Learning and Forgetting
