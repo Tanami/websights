@@ -48,6 +48,14 @@ https://daily.bandcamp.com/lists/microphones-guide
 ### the world
 http://www.thefrancisexplosion.com/
 
+### software
+https://libraries.io/search
+
+### security
+https://osintframework.com/
+
+https://defensivecomputingchecklist.com/
+
 ### food / drink
 https://bliksemlight.web.fc2.com/
 
@@ -172,4 +180,8 @@ https://fitgirl-repacks.site
 http://sh00n3m1gur.000webhostapp.com
 
 http://www.opentopia.com
+
+https://theuselessweb.com
+
+
 
