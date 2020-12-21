@@ -157,3 +157,19 @@ https://enetdown.org/dot-plan/posts/2016/02/24/thinking-about-metacognition/
 
 https://ldmce.wordpress.com/2020/09/09/thingifying-the-world-ii/
 
+### stuff from my other communities
+
+https://userinyerface.com
+
+https://www.nintendo.co.jp/n01/index.html
+
+https://piracy.now.sh
+
+http://waifu2x.udp.jp
+
+https://fitgirl-repacks.site
+
+http://sh00n3m1gur.000webhostapp.com
+
+http://www.opentopia.com
+
