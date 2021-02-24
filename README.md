@@ -44,6 +44,9 @@ https://en.wikipedia.org/wiki/DFT_matrix
 https://en.wikipedia.org/wiki/Matrix_decomposition
 https://en.wikipedia.org/wiki/Fast_Fourier_transform
 
+### design
+https://eyeondesign.aiga.org/
+
 ### music
 https://daily.bandcamp.com/lists/microphones-guide
 
