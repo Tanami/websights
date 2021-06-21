@@ -18,6 +18,8 @@ http://qntra.net/
 
 https://lenscult.net/
 
+https://daily.jstor.org/
+
 http://www.tokyo-ga.org/
 
 https://hystoria.100millionbooks.org/
