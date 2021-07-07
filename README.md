@@ -62,6 +62,8 @@ https://libraries.io/search
 
 https://www.toolchains.net/
 
+http://graficaobscura.com/
+
 ### security
 https://osintframework.com/
 
