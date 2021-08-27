@@ -43,6 +43,8 @@ https://persistentenlightenment.com/
 
 https://web.archive.org/web/20201021192512/http://takingnotenow.blogspot.com/
 
+https://web.archive.org/web/20180512202012/http://takingnotenow.blogspot.com/2010/05/self-knowledge-through-numbers.html
+
 ### junk/joke
 https://timecube.2enp.com/
 
