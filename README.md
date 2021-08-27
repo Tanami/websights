@@ -35,6 +35,8 @@ https://beepb00p.xyz/exports.html
 
 https://djrobstep.com/posts/programs-are-a-prison
 
+### blogs
+https://persistentenlightenment.com/
 
 ### junk/joke
 https://timecube.2enp.com/
