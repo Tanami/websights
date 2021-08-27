@@ -17,6 +17,9 @@ https://jacobitemag.com/
 http://qntra.net/
 
 https://lenscult.net/
+Lenscult
+
+https://aldaily.com/
 
 https://daily.jstor.org/
 
