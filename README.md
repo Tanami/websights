@@ -38,6 +38,8 @@ https://djrobstep.com/posts/programs-are-a-prison
 ### blogs
 https://persistentenlightenment.com/
 
+https://web.archive.org/web/20201021192512/http://takingnotenow.blogspot.com/
+
 ### junk/joke
 https://timecube.2enp.com/
 
