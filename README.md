@@ -63,6 +63,13 @@ https://eyeondesign.aiga.org/
 ### music
 https://daily.bandcamp.com/lists/microphones-guide
 
+https://neverendingchartrendering.org
+
+https://tapmusic.net
+
+https://collage.kordes.dev/
+
+
 ### the world
 http://www.thefrancisexplosion.com/
 
