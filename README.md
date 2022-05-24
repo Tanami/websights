@@ -88,10 +88,20 @@ https://defensivecomputingchecklist.com/
 ### food / drink
 https://bliksemlight.web.fc2.com/
 
+### machine learning
+https://mlu-explain.github.io/
+
+### linguistics
+https://specgram.com/
+
 ### smart people
 http://acko.net/
 
 ### to sort
+
+https://www.gwern.net/Fake-Journal-Club
+
+
 
 The Book of Learning and Forgetting
 
