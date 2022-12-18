@@ -12,6 +12,8 @@ https://www.notechmagazine.com/
 
 https://metamoderna.org/
 
+https://newcriterion.com/
+
 https://jacobitemag.com/
 
 http://qntra.net/
